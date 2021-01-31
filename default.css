@@ -1,0 +1,105 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0px;
+	background: #C0C0C0 url(images/img01.jpg) repeat-x left top;
+	text-align: justify;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-style: italic;
+	color: #7D807A; 
+ 
+}
+
+h1, h2, h3 {
+	color: #AA2808; 
+}
+
+h1 { 
+
+}
+
+h2 {
+}
+
+h3 {
+}
+
+p, blockquote, ul, ol {
+	margin-bottom: 20px;
+	line-height: 2em;
+}
+
+p {
+}
+
+blockquote {
+}
+
+ul, ol, li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+a {
+	text-decoration: underline;
+	color: #E14949;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #C11414;
+}
+
+/* Wrapper */
+
+#wrapper {
+}
+
+/* Header */
+
+#header {
+	width: 1000px;
+	height: 130px;
+	margin: 0 auto;
+	background: url(images/img02.jpg) no-repeat left top;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 310px;
+	height: 70px;
+	margin: 0px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+#logo h1 {
+	margin: 0;
+	padding: 10px 0px 0px 0px;
+	text-transform: capitalize;
+	font: normal 46px Georgia, "Times New Roman", Times, serif;
+}
+
+#logo h2 {
+	margin: -2px 0 0 0;
+	padding: 0;
+	text-transform: lowercase;
+	letter-spacing: 2px;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: italic;
+	color: #FFFFFF;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #FFFFFF; 
+}
