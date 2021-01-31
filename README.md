@@ -1,8 +1,8 @@
 # Online-Quiz-System 
 
-- Online Quiz System is a web-based application in Java :desktop_computer: :desktop_computer:. The main aim of this project is to create a discussion platform consisting of quiz questions on different topics, fields and subjects.
+- Online Quiz System is a web-based application in Java :computer: :computer:. The main aim of this project is to create a discussion platform consisting of quiz questions on different topics, fields and subjects.
 
 - The users of the system include administrators, institutions, academicians, and others. The project provides accessibility to the admins with valid user id and password :male_detective:. The user id and password are required for the admin to “log in” to the application.
 
-- Participants are automatically given questions, and this is based on time limit :clock2:. If the participant is unable to answer the question, negative marking is given :lying_face:. The scores obtained by each team are automatically updated. The task of handling of negative marking is done by the administrator. Furthermore, viewing and deleting the quiz results as well as automatic elimination of teams depending on their performance can be done . 
+- Participants are automatically given questions, and this is based on time limit :clock2:. If the participant is unable to answer the question, negative marking is given :frowning_face::frowning_face:. The scores obtained by each team are automatically updated. The task of handling of negative marking is done by the administrator. Furthermore, viewing and deleting the quiz results as well as automatic elimination of teams depending on their performance can be done . 
 
