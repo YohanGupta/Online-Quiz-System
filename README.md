@@ -1,6 +1,6 @@
 # Online-Quiz-System 
 
-- Online Quiz System is a web-based application in Java. The main aim of this project is to create a discussion platform consisting of quiz questions on different topics, fields and subjects.
+- Online Quiz System is a web-based application in Java :desktop_computer: :desktop_computer:. The main aim of this project is to create a discussion platform consisting of quiz questions on different topics, fields and subjects.
 
 - The users of the system include administrators, institutions, academicians, and others. The project provides accessibility to the admins with valid user id and password :male_detective:. The user id and password are required for the admin to “log in” to the application.
 
