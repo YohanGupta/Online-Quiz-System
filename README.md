@@ -6,6 +6,9 @@
 
 - Participants are automatically given questions, and this is based on time limit :clock2::clock2:. If the participant is unable to answer the question, negative marking is given :frowning_face:. The scores obtained by each team are automatically updated. The task of handling of negative marking is done by the administrator. Furthermore, viewing and deleting the quiz results as well as automatic elimination of teams depending on their performance can be done .  
 
+# :sparkles:Technology Used :sparkles: 
+
+- HTML, CSS, JavaScript, JSP, Servlets, JDBC and MySQL.
 # :sparkles:Screenshots :sparkles: 
 
 ### Welcome:heart_eyes:
